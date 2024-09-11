@@ -13,7 +13,7 @@
   💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
 </p>
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Caso queria trocar ideias, me chama por aqui ⤵️
 </p>
 <p align="left">
   <a href="mailto:michelc.linkedin@gmail.com" title="Gmail">
