@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Linguagens: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 </p>
 <p align="left">
   💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
