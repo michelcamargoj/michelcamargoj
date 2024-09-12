@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  🦄 Linguagens: 
 </p>
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
-</p>
+  💼 Ferramentas:
+</p> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <p align="left">
   💌 Caso queria trocar ideias, me chama por aqui ⤵️
 </p>
