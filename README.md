@@ -2,15 +2,13 @@
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
 <p align="left">
-  🦄 Linguagens: 
+  🦄 Linguagens:
 </p>
 <p align="left">
-  💼 Ferramentas: <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
+  💼 Ferramentas:
 </p>
 <p align="left">
   💌 Caso queria trocar ideias, me chama por aqui ⤵️
