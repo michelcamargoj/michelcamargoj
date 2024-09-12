@@ -10,8 +10,8 @@
   🦄 Linguagens: 
 </p>
 <p align="left">
-  💼 Ferramentas:
-</p> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  💼 Ferramentas: <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
+</p>
 <p align="left">
   💌 Caso queria trocar ideias, me chama por aqui ⤵️
 </p>
